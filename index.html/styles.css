@@ -3,6 +3,7 @@
     padding: 0px;
     font-family: 'Lato', sans-serif;
 }
+
 /* header styels starts here */
 .header-sec {
     background-color: #E554731A;
@@ -14,13 +15,13 @@
     align-items: center;
     gap: 97px;
     margin-left: 240px;
- 
+
 }
 
 .header-pic {
     width: 635px;
     height: 700px;
-    padding-right: 200px;
+
 }
 
 .header-title {
@@ -28,7 +29,7 @@
     font-size: 45px;
     font-weight: 800;
     width: 400px;
-   
+
 }
 
 .header-dis {
@@ -37,7 +38,8 @@
     font-weight: 400;
     margin-top: 32px;
 }
-.btn-prime{
+
+.btn-prime {
     background-color: #E55473;
     border: none;
     border-radius: 5px;
@@ -45,4 +47,52 @@
     padding: 20px 43px;
     margin-top: 32px;
 }
+
 /* header styles ends here */
+/* feature section starts here */
+.feat-heading {
+    text-align: center;
+    margin-top: 170px;
+}
+
+.feat-title {
+    color: #272727;
+    font-size: 40px;
+    font-weight: 800;
+}
+
+.feat-dis {
+    color: rgba(39, 39, 39, 0.60);
+    font-size: 18px;
+    font-weight: 400;
+}
+
+.box {
+    background-color: #A7216226;
+    width: 470px;
+    height: 430px;
+    border-radius: 300px 300px 0px 0px;
+    background: rgba(167, 33, 98, 0.15);
+    text-align: center;
+    margin-top: 50px;
+
+    padding-bottom: 0px;
+}
+
+.box-cover {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin-left: 240px;
+    margin-right: 240px;
+    gap: 30px;
+}
+
+.flower-name {
+    color: #272727;
+    font-size: 24px;
+    font-weight: 700;
+    text-decoration-line: underline;
+    margin-top: 30px;
+}
+/* feature sections ends here */
