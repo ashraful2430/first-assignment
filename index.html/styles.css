@@ -95,18 +95,22 @@
     text-decoration-line: underline;
     margin-top: 30px;
 }
-.box-flower{
+
+.box-flower {
     display: flex;
     justify-content: space-around;
     margin-left: 240px;
     margin-right: 240px;
 }
+
 /* feature sections ends here */
 /* deal styles starts here */
 
-.deal-container{
+.deal-container {
     display: flex;
+    justify-content: space-around;
     width: 1922px;
-height: 620px;
-flex-shrink: 0;
+    height: 620px;
+    flex-shrink: 0;
+    background-color: #E554730D;
 }
