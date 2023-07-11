@@ -107,16 +107,13 @@
 .deal-container {
     display: flex;
     justify-content: space-around;
-
     height: 620px;
     flex-shrink: 0;
     margin-top: 100px;
     align-items: center;
 }
 
-.deal-pic {
-    margin-right: 470px;
-}
+
 
 .deal-info {
     text-align: center;
