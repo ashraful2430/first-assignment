@@ -96,21 +96,40 @@
     margin-top: 30px;
 }
 
-.box-flower {
-    display: flex;
-    justify-content: space-around;
-    margin-left: 240px;
-    margin-right: 240px;
-}
-
 /* feature sections ends here */
 /* deal styles starts here */
-
+.deal{
+    background-color: #E554730D;
+}
 .deal-container {
     display: flex;
     justify-content: space-around;
     width: 1922px;
     height: 620px;
     flex-shrink: 0;
-    background-color: #E554730D;
+    margin-top: 100px;
+    align-items: center;
 }
+
+.deal-pic {
+    margin-right: 470px;
+}
+
+.deal-info {
+    text-align: center;
+    margin-left: 200px;
+}
+
+.deal-title {
+    color: #272727;
+    font-size: 40px;
+    font-weight: 800;
+}
+
+.deal-dis {
+    color: rgba(39, 39, 39, 0.60);
+    font-size: 18px;
+    font-weight: 400;
+     margin-top: 20px;
+}
+/* deal style ends here */
